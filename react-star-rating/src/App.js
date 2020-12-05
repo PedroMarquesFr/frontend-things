@@ -1,5 +1,5 @@
 import './App.css';
-import StarRating from './StarRating';
+import StarRating from './components/StarRating';
 
 function App() {
   return (
